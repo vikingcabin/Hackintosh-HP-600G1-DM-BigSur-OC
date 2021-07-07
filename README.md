@@ -24,7 +24,7 @@
 | CPU/处理器:           	| i5-4590t                       		|           	|
 | CPU Cooler/散热器:    	| 自带                              		|           	|
 | Hard Drive/硬盘:      	| 阿斯加特nvme AN2 250G              		|           	|
-| RAM/内存:             	| 金士顿 8G DDR3L 1600MHz X2          		|           	|
+| RAM/内存:             	| 金士顿 4G DDR3L 1600MHz X2          		|           	|
 | Wireless Card/无线网卡:	| intel ac7260                      		| 后装驱动efi未添加     	|
 | Tower Case/机箱:      	| 自带                                 	|           	|
 | Power/电源:           	| 7.4/5.5mm 19v 90w DC power adapter 	|           	|
