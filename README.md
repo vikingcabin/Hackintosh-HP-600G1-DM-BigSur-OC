@@ -1,6 +1,4 @@
-# Hackintosh-HP-600G1-DM-OC
-
-# Hackintosh for HP 600G1 DM, i5 4590t using Opencore and Support macOS Big Sur
+# Hackintosh for HP-600G1-DM, i5 4590t using Opencore and Support macOS Big Sur
 
 **此EFI在[shidongfei2](https://github.com/shidongfei2)以及[Road-tech](https://github.com/Road-tech)的基础上发布**
 
