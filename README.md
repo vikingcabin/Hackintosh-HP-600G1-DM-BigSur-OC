@@ -5,6 +5,7 @@
 ---
 
 **原机主是hp800g1的efi，经测试hp600g1dm完全符合使用，可以安装bigsur，无花屏**
+
 **如果打算使用catalina建议使用[LomotHo/Hackintosh-600g1-DM-4670t](https://github.com/LomotHo/Hackintosh-600g1-DM-4670t)，异常好用除了不能升级bigsur**
 
 ---
